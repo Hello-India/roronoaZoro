@@ -1,21 +1,21 @@
 
 <p align="center">
-    <a href="https://github.com/KDBotz/UrlShortner-AutoFilter-Bot">
+    <a href="https://t.me/itz_sahil_official">
         <kbd>
-            <img width="250" src="https://telegra.ph/file/6bb65e84e95b708f7be7a.jpg" alt="LUCIFER">
+            <img width="250" src="https://telegra.ph/file/12ac341f206163756bfa8.jpg" alt="SAHIL">
         </kbd>
     </a>
 </p>
 
 <h2 align="center">
-  ──「 ALLU ARJUN 」──
+  ──「 SAHIL 」──
 </h2>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=KD_BOTZ+MOVIE+SEARCH+BOT+!;CREATED+BY+KD_BOTZ+TEAM!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=KD_BOTZ+MOVIE+SEARCH+BOT+!;CREATED+BY+Sahil+TEAM!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
  ━━━━━━━━━━━━━━━━━━━━
-## ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟᴜᴄɪғᴇʀ](t.me/filter_lucifer_bot)
+## ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [RORONOA ZORO](t.me/Movies_Collection_Robot)
 
 
 <a href="https://github.com/kdbotz/UrlShortner-AutoFilter-Bot/stargazers"><img src="https://img.shields.io/github/stars/kdbotz/UrlShortner-AutoFilter-Bot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
