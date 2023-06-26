@@ -62,15 +62,3 @@ python3 bot.py
 </pre>
 </p>
 </details>
-
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
-
-- <b>[ᴋᴜɴᴀʟ](https://github.com/KDBOTZ)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/KDBOTZ/UrlShortner-AutoFilter-Bot) </b>
-- <b>[ᴇᴠᴀᴍᴀʀɪᴀ](https://github.com/EVAMARIATG)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://github.com/EVAMARIATG/EVAMARIA) </b>
- 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/KDBotz/UrlShortner-AutoFilter-Bot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʟᴜᴄɪғᴇʀ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
-
-━━━━━━━━━━━━━━━━━━━━
-
