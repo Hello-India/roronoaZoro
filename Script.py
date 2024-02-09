@@ -199,9 +199,9 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Request_Corner1</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ARYAN
-• ᴜꜱᴇʀɴᴀᴍᴇ : @THESavageBOe1
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/THESavageBOe1'>ARYAN</a></b>
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ♡ 𝚂𝙰𝙷𝙸𝙻 ♡
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Sahil_X_Official
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Itz_Sahil_Official'>Sᴀʜɪʟ Hᴇʀᴇ</a></b>
 """
 
     KD_IMDB = """
