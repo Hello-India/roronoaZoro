@@ -44,7 +44,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Chat_Official_Sahil')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/TheREQUESTOfficial')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/TheSAHILHub')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'TheSahilOfficial')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
@@ -86,8 +86,8 @@ DELETE_TIME = int(environ.get('DELETE_TIME', 600))
 SPL_DELETE_TIME = int(environ.get('SPL_DELETE_TIME', 15))
 
 # Url Shortner
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'Bharatlink.live')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '805fa7b97c9b11e85f7e87100eef73201c77d27f')
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', '')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '')
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
 LOG_STR += ("IMDB Results are enabled, Bot will be showing imdb details for you queries.\n" if IMDB else "IMBD Results are disabled.\n")
