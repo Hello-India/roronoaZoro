@@ -1,12 +1,12 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Anything-bro/RORONOA.git /RORONOA
+  git clone https://github.com/Joelkb/DQ-the-file-donor.git /DQTheFileDonorBot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /RORONOA
+  git clone $UPSTREAM_REPO /DQTheFileDonorBot
 fi
-cd /RORONOA
+cd /DQTheFileDonorBot
 pip3 install -U -r requirements.txt
-echo "Starting RORONOA...."
+echo "Starting DQ-The-File-Donor...."
 python3 bot.py
