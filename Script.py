@@ -11,9 +11,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Itz_Sahil_Official>♡ 𝚂𝙰𝙷𝙸𝙻 ♡</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Itz_Sahil_Of>♡ 𝚂𝙰𝙷𝙸𝙻 ♡</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/TheSAHILHub>Sᴀʜɪʟ Oғғɪᴄɪᴀʟ🖤</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/BinaryQuest>Bɪɴᴀʀʏ Qᴜᴇꜱᴛ🖤</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
@@ -50,7 +50,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/kd_botz)</code>
+<code>[Button Text](buttonurl:https://t.me/binaryquest)</code>
 
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
@@ -112,7 +112,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
 <b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
 
-<b><a href=https://t.me/CornersOfficial>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ Cᴏʀɴᴇʀꜱ Oғғɪᴄɪᴀʟ</a></b>"""
+<b><a href=https://t.me/BinaryQuest>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ Bɪɴᴀʀʏ Qᴜᴇꜱᴛ</a></b>"""
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
@@ -134,7 +134,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
 
-<b>⍟────[ @Movies_Corner20 ]─────⍟</b>"""
+<b>⍟────[ @BQChats ]─────⍟</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
@@ -190,7 +190,7 @@ Rᴇᴀsᴏɴs
 𝟸) Tʏᴘᴇ Nᴀᴍᴇ Wɪᴛʜ Yᴇᴀʀ
 
 𝟹) Mᴏᴠɪᴇ Is Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ Dᴀᴛᴀʙᴀsᴇ 
-Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Request_Corner1</b>
+Rᴇᴘᴏʀᴛ Hᴇʀᴇ @BqRequest</b>
 """
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ...
@@ -229,7 +229,7 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Request_Corner1</b>
 • /batch <code>- ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ᴍᴇᴅɪᴀ.<code>
 
 <b>Exᴀᴍᴘʟᴇ:</b>
-<code>/batch https://t.me/Movies_Corner20/1 
+<code>/batch https://t.me/random/1 
 https://t.me/Movies_Corner20/9</code>
 """
 
@@ -334,7 +334,7 @@ https://t.me/Movies_Corner20/9</code>
 
 ɪғ ʏᴏᴜ ɴᴏᴛ sᴇᴇ ʏᴏᴜʀ ғɪʟᴇs ᴏɴ ᴛʜɪs ᴘᴀɢᴇ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ᴘᴀɢᴇ.
 
-Powered by :- KD Botz
+Powered by :- Bɪɴᴀʀʏ Qᴜᴇꜱᴛ
 """
 
     SPLMD = """
@@ -348,7 +348,7 @@ sᴇʀɪᴇs ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ
 
 🚯ᴅᴏɴ'ᴛ ᴜsᴇ ➠ ':(!,./)
 
-Powered by :- KD Botz
+Powered by :- Bɪɴᴀʀʏ Qᴜᴇꜱᴛ
 """
     
     REQUEST_TXT = """
