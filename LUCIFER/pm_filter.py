@@ -742,11 +742,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             cnlbtn = [[
                       InlineKeyboardButton('Bᴏᴛ Lᴏɢs', url="https://t.me/CLASSBOTZ")
                      ], [
-                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='t.me/MOVEISGRO'),
-                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/trickyAman2')
+                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='t.me/BqREquest'),
+                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/BinaryQuest')
                      ], [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/SOLDHEHEH'),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/trickyAman2')
+                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/BQCHATS'),
+                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/BinaryQuest')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
                      ]]
